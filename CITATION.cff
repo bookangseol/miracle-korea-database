@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "Project MIRACLE: Subnational Economic Data for South Korea, 1960-1989"
+message: "If you use this dataset, please cite it using the metadata from this file."
+type: dataset
+authors:
+  - family-names: Seol
+    given-names: BooKang
+    affiliation: "London School of Economics and Political Science"
+  - family-names: Lee
+    given-names: Changkeun
+    affiliation: "Korea Development Institute"
+  - family-names: Yang
+    given-names: Hyunjoo
+    affiliation: "Sogang University"
+repository-code: "https://github.com/bookangseol/miracle-korea"
+url: "https://miracle.bookangseol.com"
+license: CC-BY-NC-SA-4.0
+date-released: "2026-03-19"
+keywords:
+  - South Korea
+  - subnational data
+  - economic development
+  - historical statistics
+  - township-level panel
+  - 1960-1989
