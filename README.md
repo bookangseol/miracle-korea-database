@@ -88,9 +88,9 @@ Full examples: [`code/examples/`](code/examples/)
 
 **BooKang Seol** · LSE Dept. of International Development · [bookangseol.com](https://bookangseol.com)
 
-**Changkeun Lee** · Korea Development Institute (KDI)
+**Changkeun Lee** · KDI School of Public Policy and Management · [changkeunlee.super.site](https://changkeunlee.super.site/)
 
-**Hyunjoo Yang** · Sogang University, Dept. of Economics
+**Hyunjoo Yang** · Sogang University, Dept. of Economics · [sites.google.com/view/hyang](https://sites.google.com/view/hyang)
 
 ## Partners and Funders
 
