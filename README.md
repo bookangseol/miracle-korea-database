@@ -86,11 +86,13 @@ Full examples: [`code/examples/`](code/examples/)
 
 ## Team
 
-**BooKang Seol** (PI) -- LSE Dept. of International Development · [bookangseol.com](https://bookangseol.com)
-**Changkeun Lee** -- Korea Development Institute (KDI)
-**Hyunjoo Yang** -- Sogang University, Dept. of Economics
+**BooKang Seol** · LSE Dept. of International Development · [bookangseol.com](https://bookangseol.com)
 
-## Partners
+**Changkeun Lee** · Korea Development Institute (KDI)
+
+**Hyunjoo Yang** · Sogang University, Dept. of Economics
+
+## Partners and Funders
 
 KDI · LSE · Sogang University · STEG
 
