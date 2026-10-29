@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "Project MIRACLE: Subnational Economic Data for South Korea, 1960-1989"
+title: "Project MIRACLE: Subnational Economic Data for South Korea, 1960-1985"
 message: "If you use this dataset, please cite it using the metadata from this file."
 type: dataset
 authors:
@@ -15,11 +15,10 @@ authors:
 repository-code: "https://github.com/bookangseol/miracle-korea-database"
 url: "https://miracle.bookangseol.com"
 license: CC-BY-NC-SA-4.0
-date-released: "2026-03-19"
 keywords:
   - South Korea
   - subnational data
   - economic development
   - historical statistics
   - township-level panel
-  - 1960-1989
+  - 1960-1985
