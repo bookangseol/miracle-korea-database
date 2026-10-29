@@ -44,8 +44,6 @@ Every township linked to satellite, elevation, slope, soil, and transport networ
 
 ## Why not train a custom reader?
 
-![Two ways to digitise historical tables](img/two-approaches.png)
-
 | | Custom-trained pipeline (e.g. Layout Parser + EffOCR) | Pretrained readers, cross-checked (MIRACLE) |
 |---|---|---|
 | How pages are read | A layout detector and a character recogniser, customised to the corpus | Three pretrained document-AI models read every page side by side |
