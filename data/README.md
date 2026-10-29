@@ -1,12 +1,11 @@
 # Data
 
-This directory will contain MIRACLE data files upon release.
+No data files are published yet.
 
-**Pilot release (late 2026):** Core keys, demographics, and agriculture for the Gyeongbu Expressway corridor (~400 townships).
+The pilot release (late 2026) will cover the Core Keys, Demographics and Agriculture modules for about 400 townships along the Gyeongbu Expressway corridor, and will be available to researchers on request. Later releases will extend coverage nationwide. See the [release plan](../README.md#release-plan).
 
-**Full release (2027--28):** National coverage (~3,500 townships × 30 years), all 9 modules.
+Planned layout (draft, may change):
 
-Subdirectories:
-- `core_keys/` -- Township identifiers and boundary concordances
-- `pilot/` -- Pilot release data files
-- `shapefiles/` -- Township boundary files
+- `core_keys/`: township identifiers and boundary concordances
+- `pilot/`: pilot release data files
+- `shapefiles/`: township boundary files

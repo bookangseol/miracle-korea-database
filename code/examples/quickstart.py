@@ -4,6 +4,8 @@ Prerequisites: pandas, geopandas, matplotlib
 
 NOTE: Data files are not yet available. This script previews how the
 data will work once released (pilot: late 2026).
+DRAFT: file paths and variable names are placeholders until the pilot
+release and will change.
 """
 
 import pandas as pd

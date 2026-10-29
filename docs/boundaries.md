@@ -1,8 +1,8 @@
-# Boundary Concordances
+# Boundary concordances and `miracle_id` (draft)
 
-Documentation of how `miracle_id` handles South Korea's administrative boundary changes during 1960--1989.
+How `miracle_id` will handle South Korea's administrative boundary changes during 1960–1985.
 
-> This document will be expanded as the full concordance is finalised.
+> **Draft.** The identifier rules and the core keys layout below are a working design and may change before release. This document will be expanded as the concordance is finalised.
 
 ## Overview
 
@@ -16,13 +16,13 @@ South Korea's administrative geography changed substantially during the period c
 
 Each township is assigned a time-invariant `miracle_id` that tracks the unit through all boundary changes. The ID persists through:
 
-- **Name changes** -- the same geographic unit keeps the same ID
-- **Merges** -- the merged unit receives a new ID; the predecessor IDs are recorded
-- **Splits** -- each resulting unit receives a new ID; the parent ID is recorded
+- **Name changes**: the same geographic unit keeps the same ID
+- **Merges**: the merged unit receives a new ID; the predecessor IDs are recorded
+- **Splits**: each resulting unit receives a new ID; the parent ID is recorded
 
 ## Core keys file
 
-`data/core_keys/miracle_core_keys.csv` contains the full concordance:
+The planned `data/core_keys/miracle_core_keys.csv` will contain the full concordance:
 
 | Field | Description |
 |-------|-------------|
