@@ -37,7 +37,9 @@ Each module will be a flat township-year panel in CSV, Stata and Python formats,
 
 ## How the data is built
 
-![How MIRACLE reads two million pages](docs/img/pipeline.png)
+![Reading pipeline for mixed Hangul–Hanja statistical tables](docs/img/pipeline.png)
+
+*Figure 1. Reading pipeline for mixed Hangul–Hanja statistical tables, built on pretrained document-AI models.*
 
 Three pretrained open document-AI models read every page, with no training on our pages. Where they disagree, the table's own printed totals decide, and a frontier model reviews any remaining conflict without supplying numbers of its own. Research assistants check flagged cells and a random audit sample, so each release will report a measured error rate. A single identifier, `miracle_id`, follows each township through boundary changes, including the major reorganisations of 1963 and 1973.
 

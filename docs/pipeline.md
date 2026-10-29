@@ -2,7 +2,9 @@
 
 From archive to analysis-ready panel in seven steps. This describes the pipeline as it is being built; details may change before release.
 
-![How MIRACLE reads two million pages](img/pipeline.png)
+![Reading pipeline for mixed Hangul–Hanja statistical tables](img/pipeline.png)
+
+*Figure 1. Reading pipeline for mixed Hangul–Hanja statistical tables, built on pretrained document-AI models.*
 
 | Step | Status |
 |---|---|
